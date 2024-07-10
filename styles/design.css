@@ -258,3 +258,10 @@ margin: 50px;
     display: flex;
     
 }
+
+.btn-ln{
+    color: #0D1321;
+    padding:20px 0px ;
+    font-weight: bolder;
+    margin-top: 10px;
+}
